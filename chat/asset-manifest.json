@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wdm/chat/static/css/main.5d41ca5f.chunk.css",
+    "main.js": "/wdm/chat/static/js/main.5cb39432.chunk.js",
+    "main.js.map": "/wdm/chat/static/js/main.5cb39432.chunk.js.map",
+    "runtime~main.js": "/wdm/chat/static/js/runtime~main.f58524d8.js",
+    "runtime~main.js.map": "/wdm/chat/static/js/runtime~main.f58524d8.js.map",
+    "static/js/2.205fb261.chunk.js": "/wdm/chat/static/js/2.205fb261.chunk.js",
+    "static/js/2.205fb261.chunk.js.map": "/wdm/chat/static/js/2.205fb261.chunk.js.map",
+    "index.html": "/wdm/chat/index.html",
+    "precache-manifest.9d32751f5249d5d0aa7d5ffdfb8c2fca.js": "/wdm/chat/precache-manifest.9d32751f5249d5d0aa7d5ffdfb8c2fca.js",
+    "service-worker.js": "/wdm/chat/service-worker.js",
+    "static/css/main.5d41ca5f.chunk.css.map": "/wdm/chat/static/css/main.5d41ca5f.chunk.css.map"
+  }
+}
